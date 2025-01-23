@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@react-three/drei": "^9.121.3",
+    "@react-three/fiber": "^8.17.12",
+    "react-router-dom": "^7.1.3"
+  }
+}
